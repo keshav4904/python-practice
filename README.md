@@ -1,3 +1,4 @@
 # python-practice
-My python programming practice for gsoc preparation.\n
+My python programming practice for gsoc preparation
+
 Author - keshav kumar
